@@ -6,11 +6,8 @@
 На тестирование затрачено: 0 часов 30 мин.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Dima-Melnikov/KeyValidator/issues/1#issue-786812660
-Валидный ключ не проходит проверку
-* https://github.com/Dima-Melnikov/KeyValidator/issues/2#issue-786813062
-Невалидный ключ проходит проверку
-
+* [Валидный ключ не проходит проверку](https://github.com/Dima-Melnikov/KeyValidator/issues/1#issue-786812660)
+* [Невалидный ключ проходит проверку](https://github.com/Dima-Melnikov/KeyValidator/issues/2#issue-786813062)
 
 Файл KeyValidator.class https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class
 
